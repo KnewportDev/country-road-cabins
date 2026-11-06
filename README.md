@@ -4,6 +4,8 @@ A homepage concept for Country Road Cabins in Hico, West Virginia. The goal is t
 
 This is an independent portfolio project by Dylan Cornett. It is not the business's official website or a completed client engagement.
 
+![Homepage preview](docs/homepage-preview.png)
+
 ## The page
 
 Real property photography, a responsive editorial layout, stay filters, accommodation details, a photo gallery, local experiences and FAQs. Booking buttons open the business's existing reservation system. There are no invented prices or availability claims.
