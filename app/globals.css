@@ -1406,7 +1406,7 @@ select:focus-visible {
     line-height: 0.98;
   }
   .hero-copy {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.8;
     max-width: 305px;
     margin-top: 24px;
@@ -1442,10 +1442,12 @@ select:focus-visible {
   }
   .welcome-strip > p {
     font-size: 25px;
-    min-width: 145px;
+    min-width: 180px;
   }
   .welcome-strip > span:not(.strip-divider) {
-    font-size: 9px;
+    flex: 0 0 100px;
+    max-width: 100px;
+    font-size: 10px;
   }
   .welcome-strip .award {
     justify-content: flex-start;
